@@ -1,4 +1,4 @@
-# ![Conduit React Webapp]
+# [Conduit React Webapp]
 
 
 ## Deploy Helm Chart
